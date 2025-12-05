@@ -7,4 +7,4 @@
 ## 2. NBA Player Stats (FiveThirtyEight)(https://github.com/fivethirtyeight/data/tree/master/nba-elo)
 **Questions:**
 - How has team performance changed over time?
-- Which players have the highest consistency in scoring? 12345
+- Which players have the highest consistency in scoring?
