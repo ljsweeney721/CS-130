@@ -16,3 +16,4 @@
 The NBA home court advantage is one of the more underrated, yet most powerful factors in sports. For decades, the energy level of the home crowd, combined with the slugglishness from the high volume of games, created one of the most polarizing factors in a game
 However, taking a look into the data would reveal that this once thought major advantage is not being used the same, as the rate of wins at home, especially in close games, is declining. With NBA talent peaking at an all time high, you would think this would not be the case. This look at game data from the 1940s to the 2010s shows that as the league became more even and more standardized, the advantage of playing at home has slowly faded.
 ### The Overall Decline
+![Overall Decline of Home Court Advantage](First_Chart/CS-130Project) 
