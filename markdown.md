@@ -18,3 +18,4 @@ However, taking a look into the data would reveal that this once thought major a
 ### The Overall Decline
 ![Overall Decline of Home Court Advantage](First_Chart/CS-130Project) 
 ![Overall Home Win Rate](../images/First_chart.jpeg)
+![Overall Decline of Home Court Advantage](Images/First_Chart.png)
